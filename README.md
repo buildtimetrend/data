@@ -1,4 +1,4 @@
 data
 ====
 
-Data, files and resources related to buildtime trend
+Data, files and resources related to the buildtime trend project
